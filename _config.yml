@@ -19,12 +19,6 @@ site-keywords: Ciberseguridad, FESC, Hacking, CTF
 favicon-url: https://cdn.pixabay.com/photo/2013/07/12/14/14/pirate-148043_960_720.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-# terminal1
-#heroimage: https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-# terminal 2
-#heroimage: https://images.pexels.com/photos/207580/pexels-photo-207580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-# programming
-# heroimage: https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_960_720.jpg
 # matrix
 heroimage: https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_960_720.jpg
 
