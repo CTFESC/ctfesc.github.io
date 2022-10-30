@@ -1,4 +1,4 @@
 - name: Taller de Linux Básico
   image: https://cdn.pixabay.com/photo/2018/04/23/14/43/ubuntu-3344434_960_720.png
-  link: /blog/temario-linux-básico
+  link: /CTFESC/blog/temario-linux-básico
   description: Arquitectura de Linux y comando básicos para la navegación a través de la terminal, manipulación de archivos y directorios, y herramientas útiles.
