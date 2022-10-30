@@ -12,11 +12,11 @@ title: CTFESC
 #description: Grupo dedicado a la Ciberseguridad y Hacking Ético
 description: Captura la bandera, captura la FESC
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: https://cdn.pixabay.com/photo/2013/07/12/14/14/pirate-148043_960_720.png
 # Keywords of the Site
 site-keywords: Ciberseguridad, FESC, Hacking, CTF
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://cdn.pixabay.com/photo/2013/07/12/14/14/pirate-148043_960_720.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # terminal1
@@ -26,21 +26,17 @@ favicon-url:
 # programming
 # heroimage: https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_960_720.jpg
 # matrix
-heroimage: /assets/images/matrix_bg.jpg
+heroimage: https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_960_720.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: sth@protonmail.com
-facebook_username: 
 twitter_username:
 instagram_username: /
 linkedin_username:
 github_username:
 youtube_channel_id: /
-reddit_username:
-behance_username:
-dribbble_username:
-spotify_username:
+reddit_username: /
 discord_server: hack4u
 
 # Google Analytics
