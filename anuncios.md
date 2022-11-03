@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Avisos
+title: Anuncios
 ---
 

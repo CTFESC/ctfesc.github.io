@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: https://ctfesc.me 
+url: https://ctfesc.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
@@ -12,11 +12,11 @@ title: CTFESC
 #description: Grupo dedicado a la Ciberseguridad y Hacking Ético
 description: Captura la bandera, FES Cuautitlán
 # URL of Image of the Site
-site-image: /assets/images/ctfesc_logo.png
+site-image: /assets/images/ctfesc_flags.png
 # Keywords of the Site
 site-keywords: Ciberseguridad, FESC, Hacking, CTF
 # URL for the Image of custom Favicon
-favicon-url: /assets/images/ctfesc_logo.png
+favicon-url: /assets/images/ctfesc_flags.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 # matrix
@@ -42,9 +42,9 @@ disqus-shortname: /
 # Name of the Author
 author-name: CTFESC
 # URL for the Image of the Author
-author-image: /assets/images/ctfesc_logo.png
+author-image: /assets/images/ctfesc_logo2.png
 # 60 Words About the Author
-author-about: Somos un grupo de alumnos de la FES Cuautitlán interesado en la Ciberseguridad y el Hacking Ético. Impulsamos el aprendizaje autodidacta a través de compartir conocimiento en la resolución de retos y máquinas de plataformas dedicadas al Pentesting como <a href="https://hackthebox.com" target="_blank" target="_blank">Hack The Box,</a> <a href="https:vulnhub.com" target="_blank">Vulnhub</a>y<a href="https://tryhackme.com" target="_blank">TryHackMe.</a> <br>CTFESC está coformado por personas de todos los niveles de conocimiento. Todos comenzamos desde cero alguna vez, sabemos que la ciberseguridad puede parecer difícil al inicio, pero para hacerla menos intimidante nos juntamos. 
+author-about: Somos un grupo de alumnos de la FES Cuautitlán interesado en la <b>Ciberseguridad</b> y el <b>Hacking Ético</b>. Impulsamos el aprendizaje autodidacta a través de compartir conocimiento en la <b>resolución de retos y máquinas</b> de plataformas dedicadas al Pentesting como <a href="https://hackthebox.com" target="_blank" target="_blank">Hack The Box,</a> <a href="https:vulnhub.com" target="_blank">Vulnhub</a>y<a href="https://tryhackme.com" target="_blank">TryHackMe.</a> <br>CTFESC está coformado por personas de <b>todos los niveles de conocimiento</b>. Todos comenzamos desde cero alguna vez, sabemos que la ciberseguridad puede parecer difícil al inicio, pero para hacerla menos intimidante nos juntamos. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url:
 
