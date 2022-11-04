@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## ¿Qué es significa CTFESC?
-El nombre de nuestro grupo está compuesto por dos acrónimos: **CTF** y **FESC**. El primero es por _Capture The Flag_ (Capturar la bandera), una de las principales modalidades en la resolución de `máquinas`. Y el segundo es el acrónimo de la facultad donde nació este proyecto _Facultad de Estudios Superiores Cuautitlán_.
+El nombre de nuestro grupo está compuesto por dos acrónimos: **CTF** y **FESC**. El primero es por _Capture The Flag_ (Capturar La Bandera), una de las principales modalidades en la resolución de `máquinas`. Y el segundo es el acrónimo de la facultad donde nació este proyecto _Facultad de Estudios Superiores Cuautitlán_.
 ## ¿Qué es una 'máquina'?
 Se les denomina así a los _ordenadores virtuales_ diseñados intencionalmente con vulnerabilidades o con configuraciones deficientes, con el fin de servir de **entorno de práctica** para `hackers` y `pentesters`. Con estas máquinas se pueden **simular escenarios reales**, lo que nos permite aprender mucho sobre técnicas de ataques y defensa de sistemas informáticos.
 ## ¿Qué es un **pentester**?
