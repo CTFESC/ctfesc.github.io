@@ -1,48 +1,43 @@
 ---
 name: Temario Linux Básico
 layout: post
-post-image: https://parrotlinux.org/_next/static/image/src/containers/HomeContainers/ToolsSection/assets/anonsurf.844c14233c8ff740daeb31ad9bf91b58.png
-description: Temario del próximo taller de Linux.
-tags:
+post-image: https://media.sketchfab.com/models/f053e2c475a149c98e9321320ab31341/thumbnails/7632bd1580654a06a7d90a48d9229fc3/f5eb0f61a90e4724b745eff777f992d0.jpeg
+description: Temario del próximo taller de Linux. Está dirigido a personas con poca o nula experiencia en este sistema operativo, se combinará teoría y práctica para un mejor aprendizaje.
+tags: Elemental Taller Linux
 ---
-Linux es un Sistema Operativo `open source`, por lo que es muy utilizado por programadores, administradores de sistemas, y por supuesto hackers y pentesters. 
 
-# Estructura de Linux
+# Linux Básico
+## Introducción a Linux
+<ul>
+<li>¿Qué es Linux?</li>
+<li>¿Dónde está presente?</li>
+<li>¿Por qué los especialistas en ciberseguridad lo utilizan?</li>
+</ul>
 
-# Uso de la terminal
-## Terminal
-```shell-session
-<usuario>@<dispositivo> <directorio> $
-parrot@computer ~ $
-```
-## Comandos
-### Fundamental
+## Shell
+<ul>
+<li>¿Qué es?</li>
+<li>Ejecución</li>
+<li>Prompt</li>
+<li>Funcionamiento</li>
+</ul>
 
-| pwd | whoami | cd  | ls  |
-| --- | ------ | --- | --- |
-|     |        | /   | -a  |
-|     |        | ~   | -l  |
-|     |        | ..  | -T  | 
-|     |        | -   |     |
+## Estructura de Linux
+<ul>
+<li>La estructura de Windows vs la estructura de Linux</li>
+<li>Rutas</li>
+<ul>
+	<li>Absolutas</li>
+	<li>Relativas</li>
+</ul></ul>
 
-### Ayuda
+## Comandos Básicos
+<ul>
+<li>Movimiento entre directorios</li>
+<ul>
+	<li>pwd</li>
+	<li>ls</li>
+	<li>cd</li>
+	<li>Directorio home</li>
 
-| --help | man |
-| ------ | --- |
-| -h     |     |
-
-### Archivos y directorios
-
-
-| mkdir | touch | cat | nano | cp  | mv  | rm  |
-| ----- | ----- | --- | ---- | --- | --- | --- |
-|       |       | >   |      | -r  |     | -r  |
-|       |       | >>  |      |     |     | -i  | 
-
-### Buscar
-
-| find  | grep |
-| ----- | ---- |
-| -type | -i   |
-| -name |      |
-| -size |      |
+</ul></ul>
