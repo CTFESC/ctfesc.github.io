@@ -7,6 +7,9 @@ tags: Elemental Taller Linux
 ---
 
 # Linux Básico
+> Todavía estamos agregando contenido.
+
+Este es un taller **80% práctico**, 20% teórico. 
 ## Introducción a Linux
 <ul>
 <li>¿Qué es Linux?</li>
@@ -33,11 +36,9 @@ tags: Elemental Taller Linux
 
 ## Comandos Básicos
 <ul>
-<li>Movimiento entre directorios</li>
-<ul>
-	<li>pwd</li>
-	<li>ls</li>
-	<li>cd</li>
-	<li>Directorio home</li>
+	<li>Comando elementales</li>
+	<li>Encontrar ayuda</li>
+	<li>Manipulación de archivos y directorios</li>
+	<li><b>Práctica de Comandos Básicos</b></li>
 
-</ul></ul>
+</ul>
