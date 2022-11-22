@@ -40,7 +40,7 @@ Tiene como objetivo dar a conocer el proyecto en términos generales a los miemb
 <li>Dar a conocer la disposición del servidor y cómo usarlo</li>
 <li>Dudas</li>
 </ul>
-## 3.2 Configuración previa
+## 3.2 [Configuración previa](https://ctfesc.github.io/blog/sesi%C3%B3n-de-configuraci%C3%B3n)
 ### 3.2.1 Instalar Parrot OS
 Sesión para presentar las alternativas que hay para poder conectarse a Hack The Box y HTB Academy. También se presenta un poco de la metodología de estudio sugerida para el primer taller:
 <ul align="left">
@@ -54,5 +54,5 @@ Sesión para presentar las alternativas que hay para poder conectarse a Hack The
 <li>OneNote</li>
 <li>EverNote</li>
 </ul>
-## 3.3 Inicio del taller Linux Básico
+## 3.3 Inicio del [taller Linux Básico](https://ctfesc.github.io/blog/temario-linux-b%C3%A1sico)
 El taller está orientado a las personas que nunca han utilizado algún S.O. basado en Linux, pues es un requisito fundamental para poder resolver máquinas en la plataformas que estaremos utilizando.
