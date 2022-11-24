@@ -42,3 +42,22 @@ Este es un taller **80% práctico**, 20% teórico.
 	<li><b>Práctica de Comandos Básicos</b></li>
 
 </ul>
+
+## CTF 
+- OverTheWire: bandit
+- Primera máquina de HTB
+
+## Búsqueda en archivos
+- Pipes
+- Wildcards
+- Filtrar información
+- Búsquedas especializadas
+- Más bandit
+
+## Usuarios y Permisos
+- root
+- Administración de usuarios
+
+## Instalar software
+- Administradores de paquetes
+- AppImages
