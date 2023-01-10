@@ -1,33 +1,28 @@
 ---
-name: Temario Linux Básico
+name: Temario Linux para Pentesting
 layout: post
 post-image: https://media.sketchfab.com/models/f053e2c475a149c98e9321320ab31341/thumbnails/7632bd1580654a06a7d90a48d9229fc3/f5eb0f61a90e4724b745eff777f992d0.jpeg
-description: Temario del próximo taller de Linux. Está dirigido a personas con poca o nula experiencia en este sistema operativo, se combinará teoría y práctica para un mejor aprendizaje.
+description: Temario del próximo taller de Linux. Este taller está dirigido a personas con poca o nula experiencia en Linux, se abarcarán temas desde cómo ejecutar comandos hasta administración de permisos. Se incluye una introducción a la resolución de máquinas y principios de pentesting.
 tags: Elemental Taller Linux
 ---
 
 # Linux Básico
 > Todavía estamos agregando contenido.
 
-Este es un taller **80% práctico**, 20% teórico. 
 ## Introducción a Linux
-<ul>
-<li>¿Qué es Linux?</li>
-<li>¿Dónde está presente?</li>
-<li>¿Por qué los especialistas en ciberseguridad lo utilizan?</li>
-</ul>
+- ¿Qué es Linux?
+- ¿Dónde está presente?
+- ¿Por qué los especialistas en ciberseguridad lo utilizan?
 
 ## Shell
-<ul>
-<li>¿Qué es?</li>
-<li>Ejecución</li>
-<li>Prompt</li>
-<li>Funcionamiento</li>
-</ul>
+- ¿Qué es?
+- Ejecución
+- Prompt
+- Ejecución de comandos
 
 ## Estructura de Linux
 <ul>
-<li>La estructura de Windows vs la estructura de Linux</li>
+<li>Estructura de Linux</li>
 <li>Rutas</li>
 <ul>
 	<li>Absolutas</li>
@@ -35,29 +30,35 @@ Este es un taller **80% práctico**, 20% teórico.
 </ul></ul>
 
 ## Comandos Básicos
-<ul>
-	<li>Comando elementales</li>
-	<li>Encontrar ayuda</li>
-	<li>Manipulación de archivos y directorios</li>
-	<li><b>Práctica de Comandos Básicos</b></li>
+- Encontrar ayuda
+- Manipulación de archivos y directorios
+- Práctica de Comandos Básicos
 
-</ul>
+## Editores de texto
+- Editores gráficos
+- Editores en terminal
+- Personalizar la terminal
 
 ## CTF 
+- ¿Qué es CTF?
 - OverTheWire: bandit
-- Primera máquina de HTB
+- Primera máquina Try Hack Me
+- Primera máquina de Hack The Box
 
 ## Búsqueda en archivos
 - Pipes
-- Wildcards
 - Filtrar información
+- Wildcards
 - Búsquedas especializadas
 - Más bandit
 
 ## Usuarios y Permisos
-- root
-- Administración de usuarios
+- Permisos
+- Cambiar permisos
+- Usuario root
+- Sudoers
 
 ## Instalar software
-- Administradores de paquetes
+- apt
+- git
 - AppImages

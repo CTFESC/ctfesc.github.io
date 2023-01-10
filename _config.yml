@@ -44,7 +44,7 @@ author-name: CTFESC
 # URL for the Image of the Author
 author-image: /assets/images/ctfesc_logo2.png
 # 60 Words About the Author
-author-about: Somos un grupo de estudiantes de la FES Cuautitlán interesado en la <b>Ciberseguridad</b> y el <b>Hacking Ético</b>. Impulsamos el aprendizaje autodidacta a través de compartir conocimiento en la <b>resolución de retos y máquinas</b> de plataformas dedicadas al Pentesting, como<a href="https://hackthebox.com" target="_blank">Hack The Box</a>. <br>CTFESC está coformado por personas de <b>todos los niveles de conocimiento</b>. Nuestro objetivo es desarrollar las habilidades técnicas que nos permitan destacar en este sector.
+author-about: Somos una comunidad conformada por estudiantes de la Facultad de Estudios Superiores Cuautitlán interesados en la <b>Ciberseguridad</b> y el <b>Hacking Ético</b>. Impulsamos el aprendizaje autodidacta a través de compartir conocimiento en la <b>resolución de retos y máquinas</b> de plataformas dedicadas al Pentesting, como<a href="https://hackthebox.com" target="_blank">Hack The Box</a> y<a href="https://tryhackme.com" target="_blank">Try Hack Me</a>. <br>CTFESC está coformado por personas de <b>todos los niveles de conocimiento</b>. Nuestro objetivo es desarrollar las habilidades técnicas que nos permitan destacar en este sector.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url:
 
