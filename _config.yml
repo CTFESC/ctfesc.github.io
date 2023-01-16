@@ -27,14 +27,14 @@ heroimage: https://cdn.pixabay.com/photo/2016/10/12/19/50/matrix-1735640_960_720
 email: ctfesc@protonmail.com
 twitter_username:
 instagram_username: /
-linkedin_username:
-github_username:
-youtube_channel_id: /
-reddit_username: /
-discord_server: /
+linkedin_username: 
+github_username: 
+youtube_channel_id: ctfesc
+reddit_username: 
+discord_server: JaU8YX59vV
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics:
 
 # Disqus
 disqus-shortname: /

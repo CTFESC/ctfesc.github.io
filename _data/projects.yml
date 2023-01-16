@@ -8,7 +8,7 @@
   link: blog/sesión-de-configuración
   description: <b>Proximamente</b> <br>Presentación de las opciones para trabajar con Parrot OS. Instalación de VirtualBox y Parrot OS. Vistazo general a HTB y HTB Academy.
 
-- name: Taller de Linux Básico
+- name: Taller de Linux para Pentesters
   image: https://cdn.pixabay.com/photo/2018/04/23/14/43/ubuntu-3344434_960_720.png
-  link: blog/temario-linux-básico
+  link: blog/temario-linux-para-pentesting
   description: <b>Proximamente</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
