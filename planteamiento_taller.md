@@ -3,6 +3,9 @@ title: Planteamiento del Taller
 layout: page
 ---
 
+<!-- encuesta -->
+<div data-tf-sidetab="oXMXcNsW" data-tf-opacity="100" data-tf-iframe-props="title=Hola, somos CTFESC" data-tf-transitive-search-params data-tf-button-color="#164D4D" data-tf-button-text="Encuesta" style="all:unset;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+
 # Taller Linux para Pentesting
 ## Objetivo
 > **Introducir a los asistentes en el uso del sistema operativo Linux**, ayudándoles a **progresar en el manejo** de éste a través de ejercicios prácticos y didácticos, con un enfoque hacia el pentesting que les permita **integrarse en el campo de la seguridad informática**.
