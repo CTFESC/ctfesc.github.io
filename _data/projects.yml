@@ -1,14 +1,14 @@
 - name: Charla informativa
-  image: https://cdn.pixabay.com/photo/2021/02/17/14/51/social-media-6024473_960_720.png
+  image: /assets/images/ctfesc_flags_16_9.png
   link: anuncios/#
-  description: <b>Proximamente</b> <br>Inauguración del servidor de Discord, presentación del objetivo del proyecto, cuáles serán las actividades próximas e introducción a HTB.
+  description: <b>4 de febrero</b> <br>Inauguración del servidor de Discord, presentación del propósito de CTFESC y su objetivos, así como un vistazo a las actividades que tendrémos.
 
-- name: Sesión de configuración
-  image: https://cdn.pixabay.com/photo/2016/09/16/19/15/gear-1674891_960_720.png
-  link: blog/sesión-de-configuración
-  description: <b>Proximamente</b> <br>Presentación de las opciones para trabajar con Parrot OS. Instalación de VirtualBox y Parrot OS. Vistazo general a HTB y HTB Academy.
+    #- name: Sesión de configuración
+    #image: https://cdn.pixabay.com/photo/2016/09/16/19/15/gear-1674891_960_720.png
+    #link: blog/sesión-de-configuración
+    #description: <b>Proximamente</b> <br>Presentación de las opciones para trabajar con Parrot OS. Instalación de VirtualBox y Parrot OS. Vistazo general a HTB y HTB Academy.
 
 - name: Taller de Linux para Pentesters
-  image: https://cdn.pixabay.com/photo/2018/04/23/14/43/ubuntu-3344434_960_720.png
+  image: /assets/images/tux_light.png
   link: blog/temario-linux-para-pentesting
-  description: <b>Proximamente</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
+  description: <b>11 de febrero</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
