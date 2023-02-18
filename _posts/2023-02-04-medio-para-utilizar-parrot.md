@@ -1,7 +1,7 @@
 ---
 name: Sesión de Configuración
 layout: post
-post-image: https://parrotlinux.org/_next/static/image/src/containers/HomeContainers/ToolsSection/assets/anonsurf.844c14233c8ff740daeb31ad9bf91b58.png
+post-image: https://www.parrotsec.org/_next/static/media/aircrack-ng.2f799af3.png
 description: En esta sesión se revisarán las distintas opciones para el uso de Parrot, con sus ventajas y desventajas respectivas. En esta guía se presentan esas opciones para que escojas dependiendo de los recursos de tu equipo y de lo que se te adapte mejor a ti.
 tags: Guía Elemental Configuración
 ---
