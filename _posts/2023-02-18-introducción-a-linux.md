@@ -103,6 +103,25 @@ Muestra el contenido de un directorio en formato de arbol
 $ tree <ruta>
 ```
 
+---
+## Comandos de ayuda
+### Ayuda rápida
+Muestra una breve descripción del comando y sus múltiples opciones. Si la opción `-h` no da resultados, utiliza `--help`.
+```shell-session
+$ <comando> -h
+$ <comando> --help
+```
+
+### Ayuda detallada
+Muestra toda la información del comando, su utilización y todas la opciones disponibles para ese comando.
+```shell-session
+$ man <comando>
+
+q  # salir
+```
+
+
 <br>
 
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/linuxmemes/comments/jqca9u/classic_linux/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="528" width="640" scrolling="no"></iframe>
+
