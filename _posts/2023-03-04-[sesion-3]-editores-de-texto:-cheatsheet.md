@@ -73,4 +73,4 @@ $ nano <archivo>
 | Pegar desde el portapapeles    | `Ctrl` + `Shift` + `v` |
 
 <br>
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/vim/comments/kugfdy/can_anyone_hear_me/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="528" width="640" scrolling="no"></iframe>
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/vim/comments/hgowyf/quit_now/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="489" width="640" scrolling="no"></iframe>
