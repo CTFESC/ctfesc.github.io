@@ -1,7 +1,7 @@
 ---
 name: Comandos Básicos
 layout: post
-post-image: /assets/images/cat.png
+post-image: /assets/images/taller/cat.png
 description: Uso de comandos para la manipulación de archivos y directorios. Se demuestra el funcionamiento de comandos con los que podemos ver el contenido de un archivo, crear archivos nuevos y darles contenido, así como mover, renombrar, copiar y eliminar archivos y directorios desde la terminal.
 tags: Comandos Taller Terminal Administración Linux
 ---

@@ -1,7 +1,7 @@
 ---
 name: Introducción a Linux
 layout: post
-post-image: /assets/images/Estructura_Linux.png
+post-image: /assets/images/taller/Estructura_Linux.png
 description: En esta sesión se dio la introducción a la interfaz de Parrot OS, la shell y a comandos básicos. También se explicó cómo se utilizan las rutas absolutas y relativas con comandos, para movernos por el sistema desde la terminal.
 tags: Taller Comandos Introducción Terminal Shell Cheatsheet
 ---
