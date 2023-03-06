@@ -1,9 +1,10 @@
-- name: Charla informativa
-  image: /assets/images/ctfesc_flags_16_9.png
-  link: anuncios/#
-  description: <b>Acaba de suceder</b> <br>Inauguración del servidor de Discord, presentación del propósito de CTFESC y su objetivos, así como un vistazo a las actividades que tendrémos.
-
 - name: Taller de Linux para Pentesters
   image: /assets/images/tux_light.png
   link: blog/temario-linux-para-pentesting
   description: <b>En curso</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
+
+- name: Sesiones de resolución
+  image: /assets/images/anuncios/tryhackme.png
+  link: anuncios/#
+  description: <b>Inicia 11 marzo</b> <br>Empiezan las sesiones de resolución, comenzando con los primeros niveles de Bandit wargame y nuestra primer máquina en la plataforma de TryHackMe.
+
