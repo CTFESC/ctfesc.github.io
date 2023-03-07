@@ -5,6 +5,6 @@
 
 - name: Sesiones de resolución
   image: /assets/images/anuncios/tryhackme.png
-  link: anuncios/#
+  link: anuncios
   description: <b>Inicia 11 marzo</b> <br>Empiezan las sesiones de resolución, comenzando con los primeros niveles de Bandit wargame y nuestra primer máquina en la plataforma de TryHackMe.
 
