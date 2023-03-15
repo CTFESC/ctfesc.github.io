@@ -1,6 +1,11 @@
 # WhatATheme
 markdown: kramdown
-
+highlighter: rouge
+kramdown:
+  imput: GMF
+  syntax_highlighter_opts:
+    default_lang: shell-session
+  
 # URL of the Site
 url: https://ctfesc.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)

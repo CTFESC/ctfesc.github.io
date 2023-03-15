@@ -28,11 +28,11 @@ tags: Máquinas CTF Linux Pentesting Cheatsheet
 
 ### cat
 Mostrar contenido de archivos que su nombre comienza con `-`.
-
 ```shell-session
 $ cat ./-
 $ cat <ruta_absoluta>/-
 ```
+
 <br>
 Mostrar contenido de archivos con espacios en el nombre.
 ```shell-session
@@ -80,7 +80,6 @@ $ gobuster <modo> -u <url> -w <wordlist>
 $ gobuster dir -u http://10.10.20.10 -w rockyou.txt
 $ gobuster -u http://fakebank.com -w wordlist.txt dir
 ```
-
 ---
 
 # Proceso de CTF ilustrado
