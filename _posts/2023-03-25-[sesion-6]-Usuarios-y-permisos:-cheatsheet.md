@@ -53,3 +53,7 @@ tags: Linux Taller Shell Comandos
 $ chmod u+rx-w,g+rx-w,o+x-rw <archivo>
 $ chmod 551 <archivo>
 ``` 
+<br>
+
+---
+<blockquote class="reddit-embed-bq" data-embed-theme="dark" data-embed-height="500">      <a href="https://www.reddit.com/r/vpnnetwork/comments/11dnsb7/touch_cannot_touch_woman_access_denied/">Touch: cannot touch 'woman' access denied</a><br> by      <a href="https://www.reddit.com/user/SpaceyAndrew">u/SpaceyAndrew</a> in      <a href="https://www.reddit.com/r/vpnnetwork/">vpnnetwork</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
