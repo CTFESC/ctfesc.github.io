@@ -3,8 +3,8 @@
   link: blog/temario-linux-para-pentesting
   description: <b>En curso</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
 
-- name: Sesiones de resolución
-  image: /assets/images/anuncios/tryhackme.png
+- name: HTB Starting Point
+  image: /assets/images/anuncios/htb_logo.png
   link: anuncios
-  description: <b>En curso</b> <br>Empiezan las sesiones de resolución, comenzando con los primeros niveles de Bandit wargame y nuestra primer máquina en la plataforma de TryHackMe.
+  description: <b>En curso</b> <br>Empiezan las sesiones de resolución de las máquinas preparadas para los principiantes en la plataforma Hack The Box.
 
