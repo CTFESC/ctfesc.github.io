@@ -1,10 +1,16 @@
+
+- name: Sesión de información
+  image: /assets/images/anuncios/discord_banner.png
+  link: anuncios
+  description: <b>-- 12 de agosto --</b> <br>Sesión para conocer sobre CTFESC y el próximo taller de Bases de Datos.<br><br>Hora por confirmar, en el servidor de Discord.
+
+- name: Taller de bases de datos e inyecciones SQL
+  image: /assets/images/anuncios/database.jpg
+  link: blog/bases-de-datos-e-inyecciones-sql
+  description: <b>-- Inicia 19 de agosto --</b> <br>Aprende a diseñar y construir bases de datos desde cero, además inicia en la ciberseguridad aprendiendo sobre vulnerabilidades de inyección SQL.
+
 - name: Taller de Linux para Pentesters
   image: /assets/images/tux_light.png
   link: blog/temario-linux-para-pentesting
-  description: <b>En curso</b> <br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
-
-- name: HTB Starting Point
-  image: /assets/images/anuncios/htb_logo.png
-  link: anuncios
-  description: <b>En curso</b> <br>Empiezan las sesiones de resolución de las máquinas preparadas para los principiantes en la plataforma Hack The Box.
+  description: <b>-- Acaba de suceder --</b><br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
 
