@@ -23,8 +23,9 @@ Este es un taller enfocado a la comunidad estudiantil de la FES Cuautitlán dond
 - Áreas: **bases de datos y ciberseguridad**.
 - Costo: **gratuito**.
 - Duración: 13 sesiones, 1 por semana.
-- Inscripción: Contesta la encuesta a tu derecha 👉.
+- Inscripción: Contesta la encuesta que está abajo 👇.
 
+<button data-tf-popup="MG4UbLKS" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Encuesta taller BD y SQLi" data-tf-transitive-search-params data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#026451;color:#fff;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Encuesta</button><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 # Temario
