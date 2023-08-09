@@ -2,7 +2,7 @@
 - name: Sesión de información
   image: /assets/images/anuncios/discord_banner.png
   link: anuncios
-  description: <b>-- 12 de agosto --</b> <br>Sesión para conocer sobre CTFESC y el próximo taller de Bases de Datos.<br><br>Hora por confirmar, en el servidor de Discord.
+  description: <b>-- 12 de agosto, 10 AM --</b><br>En el servidor de Discord.<br><br>Sesión para conocer sobre CTFESC y el próximo taller de Bases de Datos.<br>
 
 - name: Taller de bases de datos e inyecciones SQL
   image: /assets/images/anuncios/database.jpg
@@ -12,5 +12,5 @@
 - name: Taller de Linux para Pentesters
   image: /assets/images/tux_light.png
   link: blog/temario-linux-para-pentesting
-  description: <b>-- Acaba de suceder --</b><br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
+  description: <b>-- Finalizado --</b><br>Comienza en la ciberseguridad aprendiendo los fundamentos de Linux, el sistema operativo de los pentesters.
 
