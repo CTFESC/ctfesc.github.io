@@ -1,7 +1,7 @@
 ---
 name: Bases de Datos e Inyecciones SQL
 layout: post
-post-image: /assets/images/anuncios/database.jpg
+post-image: /assets/images/anuncios/bd_sqli.png
 description: Este taller está dirigido a personas nuevas en el campo de bases de datos, a personas que quieran refrescar sus conocimientos, y a aquellos interesados en la seguridad informática en el ámbito web.
 tags: Temario Taller SQL SQLi
 ---
