@@ -1,13 +1,13 @@
 
-- name: Sesión de información
-  image: /assets/images/anuncios/discord_banner.png
-  link: anuncios
-  description: <b>-- 12 de agosto, 10 AM --</b><br>En el servidor de Discord.<br><br>Sesión para conocer sobre CTFESC y el próximo taller de Bases de Datos.<br>
-
 - name: Taller de bases de datos e inyecciones SQL
   image: /assets/images/anuncios/database.jpg
   link: blog/bases-de-datos-e-inyecciones-sql
-  description: <b>-- Inicia 19 de agosto --</b> <br>Aprende a diseñar y construir bases de datos desde cero, además inicia en la ciberseguridad aprendiendo sobre vulnerabilidades de inyección SQL.
+  description: <b>-- Inicia 19 de agosto, 9:00 AM --</b><br><br>Aprende a diseñar y construir bases de datos desde cero, además inicia en la ciberseguridad aprendiendo sobre vulnerabilidades de inyección SQL.
+
+- name: Sesión de información
+  image: /assets/images/anuncios/discord_banner.png
+  link: https://youtu.be/fb1u8YkEk_s
+  description: <b>-- Mira la grabación --</b><br><br>Sesión para conocer sobre CTFESC y el próximo taller de Bases de Datos.<br>
 
 - name: Taller de Linux para Pentesters
   image: /assets/images/tux_light.png

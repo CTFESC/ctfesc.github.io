@@ -2,16 +2,13 @@
 name: Bases de Datos e Inyecciones SQL
 layout: post
 post-image: /assets/images/anuncios/database.jpg
-description: Temario del taller de Bases de Datos e Inyeciones SQL. Este taller está dirigido a personas nuevas en el campo de bases de datos, a personas que quieran refrescar sus conocimientos y a aquellos interesados en la seguridad informática en el ámbito web.
+description: Este taller está dirigido a personas nuevas en el campo de bases de datos, a personas que quieran refrescar sus conocimientos, y a aquellos interesados en la seguridad informática en el ámbito web.
 tags: Temario Taller SQL SQLi
 ---
 
 # Taller
 
-> Inicia el sábado 19 de agosto.
-**Horario y modalidad por confirmar.**
-
-> No te pierdas la **sesión de información** a través del servidor de Discord el **12 de agosto** para conocer más sobre CTFESC y sobre el taller.
+> Inicia el sábado 19 de agosto a las 9:00 AM. En las instalaciones de la FESC.
 
 ## Descripción
 
@@ -21,11 +18,19 @@ Este es un taller enfocado a la comunidad estudiantil de la FES Cuautitlán dond
 
 - Dirigido a: **toda la comunidad estudiantil**, desde principiantes hasta aquellos con conocimiento que quieran dar un repaso.
 - Áreas: **bases de datos y ciberseguridad**.
-- Costo: **gratuito**.
+- Modalidad: **Presencial (se grabarán y se subiran a YouTube también)**.
+- Horario: Sábados 9:00 - 11:00 AM.
+- Lugar: [Salón A1101](https://goo.gl/maps/kVM3Wi94WbMQz29TA).
 - Duración: 13 sesiones, 1 por semana con duración de dos horas.
+- Costo: **gratuito**.
 - Inscripción: Contesta la encuesta que está abajo 👇.
 
-<button data-tf-popup="MG4UbLKS" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Encuesta taller BD y SQLi" data-tf-transitive-search-params data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#026451;color:#fff;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Encuesta</button><script src="//embed.typeform.com/next/embed.js"></script>
+<button data-tf-popup="fRum6IPm" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Encuesta para el Taller BD y SQLi" data-tf-transitive-search-params data-tf-medium="snippet" style="all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#026451;color:#fff;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;">Encuesta</button><script src="//embed.typeform.com/next/embed.js"></script>
+
+---
+## Sesión de información
+Conoce más sobre CTFESC y sobre el taller que se dará:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fb1u8YkEk_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 # Temario
