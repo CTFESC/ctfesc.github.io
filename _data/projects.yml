@@ -1,6 +1,6 @@
 
 - name: Taller de bases de datos e inyecciones SQL
-  image: /assets/images/anuncios/database.jpg
+  image: /assets/images/anuncios/bd_sqli.png
   link: blog/bases-de-datos-e-inyecciones-sql
   description: <b>-- Inicia 19 de agosto, 9:00 AM --</b><br><br>Aprende a diseñar y construir bases de datos desde cero, además inicia en la ciberseguridad aprendiendo sobre vulnerabilidades de inyección SQL.
 
